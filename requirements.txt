@@ -1,0 +1,8 @@
+keyboard
+kthread_sleep
+pefile
+psutil
+regex
+regexfilesearch
+repeatdecorator
+requests
